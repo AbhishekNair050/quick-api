@@ -17,7 +17,7 @@ Quick-API is a Python library that wraps saved machine learning models (like `.p
 ## Installation
 
 ```bash
-pip install quick-api
+pip install ml-quick-api
 ```
 
 ## Quick Start

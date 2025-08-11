@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="quick-api",
-    version="0.1.0",
+    name="ml-quick-api",
+    version="0.1.1",
     author="Your Name",
     author_email="abhishek.naiir@gmail.com",
     description="Turn a Model into an API in One Line",
